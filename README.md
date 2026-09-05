@@ -23,7 +23,7 @@ I build **AI-powered applications, backend systems, and intelligent agent workfl
 
 I'm focused on becoming a strong **AI Engineer** with a foundation in backend development and machine learning.
 
-My current focus is on building real systems rather than only experimenting with tutorials.
+I learn by building real systems and using projects to understand the engineering concepts behind them.
 
 * Building AI applications with **Python**
 * Developing backend APIs with **FastAPI**
@@ -39,29 +39,64 @@ My current focus is on building real systems rather than only experimenting with
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
 </p>
 
 ### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch" />
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" />
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  </a>
+  <a href="https://www.langchain.com/langgraph" target="_blank">
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  </a>
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
 </p>
 
-`LangChain` • `LangGraph` • `OpenAI` • `RAG` • `LLM Applications` • `AI Agents`
+**Focus:** LLM Applications • RAG • AI Agents • Multi-Agent Systems • LLM Evaluation
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgresql,sqlite" />
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgresql" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=sqlite" />
+  </a>
+  <a href="https://www.sqlalchemy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
+  </a>
 </p>
 
-`FastAPI` • `SQLAlchemy` • `REST APIs` • `PostgreSQL` • `SQLite`
+**Focus:** REST APIs • Authentication • SQLAlchemy • Database Design • Backend Architecture
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
 </p>
 
 ---
@@ -72,11 +107,11 @@ My current focus is on building real systems rather than only experimenting with
 
 A multi-agent AI research pipeline that automates the process from **web search → content extraction → report generation → AI criticism**.
 
-**Built with:**
+**Built with:** Python, LangChain, OpenAI, Tavily, BeautifulSoup, Requests, Streamlit
 
-`Python` `LangChain` `OpenAI` `Tavily` `BeautifulSoup` `Streamlit`
-
-[View Repository →](https://github.com/zubairanjumm/multi-agent-system)
+<a href="https://github.com/zubairanjumm/multi-agent-system">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 ---
 
@@ -86,11 +121,11 @@ A backend-focused research management system built with **FastAPI and SQLAlchemy
 
 The project focuses on structured research resources, projects, bookmarks, notes, authentication, and database-backed APIs.
 
-**Built with:**
+**Built with:** Python, FastAPI, SQLAlchemy, SQLite, PostgreSQL
 
-`Python` `FastAPI` `SQLAlchemy` `SQLite` `PostgreSQL`
-
-[View Repository →](https://github.com/zubairanjumm/research_hub)
+<a href="https://github.com/zubairanjumm/research_hub">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 ---
 
@@ -126,15 +161,22 @@ Machine Learning
 
 > Learn the fundamentals → build the system → understand why it works → improve it.
 
-I prefer building projects that solve actual problems and use them to understand the underlying engineering concepts.
-
----
+I prefer building projects that solve actual problems and using them to understand the underlying engineering concepts.
 
 ---
 
 ## Current Goal
 
 Build a strong foundation in **AI Engineering and backend systems**, then use those skills to create useful AI products.
+
+---
+
+<div align="center">
+
+### Let's build useful things.
+
+</div>
+
 
 ---
 
