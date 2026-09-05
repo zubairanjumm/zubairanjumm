@@ -1,179 +1,271 @@
 <div align="center">
 
-# Hi, I'm Zubair 👋
+# 👋 Hi, I'm Zubair
 
-### Python Developer • AI Engineer • Backend Developer
+### Python Developer · AI Engineer · Backend Developer
 
-I build **AI-powered applications, backend systems, and intelligent agent workflows** with Python.
+**Building AI systems, intelligent agents, and reliable backend applications.**
 
-<p>
-  <a href="https://github.com/zubairanjumm">
-    <img src="https://img.shields.io/badge/GitHub-zubairanjumm-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/zubairanjumm">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/zubairanjumm?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-View%20Projects-0A0A0A?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I'm focused on becoming a strong **AI Engineer** with a foundation in backend development and machine learning.
+I'm a Python developer focused on **AI Engineering and backend systems**.
 
-I learn by building real systems and using projects to understand the engineering concepts behind them.
+I enjoy taking an idea, understanding the underlying engineering, and turning it into a working system.
 
-* Building AI applications with **Python**
-* Developing backend APIs with **FastAPI**
-* Working with **LLMs and AI agents**
-* Exploring **RAG and multi-agent architectures**
-* Learning how to build reliable, production-oriented systems
-* Interested in turning technical ideas into useful products
+My current areas of focus:
 
----
+* 🤖 **LLM Applications & AI Agents**
+* 🔎 **RAG & Research Systems**
+* 🔗 **Multi-Agent Workflows**
+* ⚡ **FastAPI & Backend Engineering**
+* 🗄️ **SQLAlchemy & Databases**
+* 🧠 **Machine Learning**
+* 🏗️ **System Architecture**
+* 🚀 **Building useful AI products**
 
-## Tech Stack
-
-### Languages
-
-<p>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-</p>
-
-### AI / Machine Learning
-
-<p>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" />
-  </a>
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  </a>
-  <a href="https://www.langchain.com/langgraph" target="_blank">
-    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  </a>
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  </a>
-</p>
-
-**Focus:** LLM Applications • RAG • AI Agents • Multi-Agent Systems • LLM Evaluation
-
-### Backend & Databases
-
-<p>
-  <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=fastapi" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgresql" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" />
-  </a>
-  <a href="https://www.sqlalchemy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
-  </a>
-</p>
-
-**Focus:** REST APIs • Authentication • SQLAlchemy • Database Design • Backend Architecture
-
-### Tools
-
-<p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-</p>
+> I don't want to just use AI libraries. I want to understand how the systems behind them work.
 
 ---
 
-## Featured Projects
+# 🛠️ Tech Stack
 
-### Multi-Agent Research System
+### 🐍 Programming
 
-A multi-agent AI research pipeline that automates the process from **web search → content extraction → report generation → AI criticism**.
+<p>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
+</p>
 
-**Built with:** Python, LangChain, OpenAI, Tavily, BeautifulSoup, Requests, Streamlit
+### 🤖 AI & Machine Learning
+
+<p>
+<a href="https://pytorch.org/">
+<img src="https://skillicons.dev/icons?i=pytorch" />
+</a>
+<a href="https://www.langchain.com/">
+<img src="https://skillicons.dev/icons?i=langchain" />
+</a>
+<a href="https://www.langchain.com/langgraph">
+<img src="https://img.shields.io/badge/LangGraph-Framework-1C3C3C?style=for-the-badge" />
+</a>
+<a href="https://openai.com/">
+<img src="https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</a>
+</p>
+
+`LLMs` · `RAG` · `AI Agents` · `Multi-Agent Systems` · `Prompt Engineering` · `LLM Evaluation`
+
+### ⚡ Backend
+
+<p>
+<a href="https://fastapi.tiangolo.com/">
+<img src="https://skillicons.dev/icons?i=fastapi" />
+</a>
+<a href="https://www.sqlalchemy.org/">
+<img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge" />
+</a>
+</p>
+
+`REST APIs` · `Authentication` · `API Design` · `Database Design` · `Backend Architecture`
+
+### 🗄️ Databases
+
+<p>
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgresql" />
+</a>
+<a href="https://www.sqlite.org/">
+<img src="https://skillicons.dev/icons?i=sqlite" />
+</a>
+</p>
+
+### 🔧 Development Tools
+
+<p>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" />
+</a>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔬 Multi-Agent Research System
+
+> **Search → Read → Write → Critique**
+
+A multi-agent AI research pipeline that automates the research process.
+
+The system uses specialized agents to:
+
+* 🔎 Search the web
+* 📄 Extract relevant webpage content
+* ✍️ Generate research reports
+* 🧠 Critically evaluate the generated report
+* 📊 Present the pipeline through a Streamlit interface
+
+**Stack**
+
+`Python` `LangChain` `OpenAI` `Tavily` `BeautifulSoup` `Requests` `Streamlit`
+
+<br>
 
 <a href="https://github.com/zubairanjumm/multi-agent-system">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
 
-### Research Hub
+## 📚 Research Hub
 
-A backend-focused research management system built with **FastAPI and SQLAlchemy**.
+> **Backend system for managing research resources**
 
-The project focuses on structured research resources, projects, bookmarks, notes, authentication, and database-backed APIs.
+A FastAPI-based backend designed around research projects and their related resources.
 
-**Built with:** Python, FastAPI, SQLAlchemy, SQLite, PostgreSQL
+The system includes:
+
+* 🔐 Authentication
+* 📁 Research projects
+* 🔖 Bookmarks
+* 📝 Notes
+* 📚 Resources
+* 🗄️ Database-backed APIs
+* 🏗️ Structured backend architecture
+
+**Stack**
+
+`Python` `FastAPI` `SQLAlchemy` `SQLite` `PostgreSQL`
+
+<br>
 
 <a href="https://github.com/zubairanjumm/research_hub">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ---
 
-## What I'm Learning
+# 🧩 What I'm Building Toward
 
 ```text
-AI Engineering
-├── LLM Applications
-├── RAG Systems
-├── AI Agents
-├── Multi-Agent Systems
-├── LangGraph
-└── LLM Evaluation
-
-Backend Engineering
-├── FastAPI
-├── SQLAlchemy
-├── PostgreSQL
-├── Authentication
-├── API Design
-└── Production Architecture
-
-Machine Learning
-├── Data Preprocessing
-├── Feature Engineering
-├── Model Development
-└── Deep Learning
+                    AI ENGINEERING
+                          │
+          ┌───────────────┼───────────────┐
+          │               │               │
+        LLMs             RAG            Agents
+          │               │               │
+          └───────────────┼───────────────┘
+                          │
+                  AI APPLICATIONS
+                          │
+                    ┌─────┴─────┐
+                    │           │
+                 FastAPI     Databases
+                    │           │
+                    └─────┬─────┘
+                          │
+                   REAL PRODUCTS
 ```
 
 ---
 
-## My Approach
+# 📈 GitHub Statistics
 
-> Learn the fundamentals → build the system → understand why it works → improve it.
+<div align="center">
 
-I prefer building projects that solve actual problems and using them to understand the underlying engineering concepts.
+<a href="https://github.com/zubairanjumm">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zubairanjumm&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+</a>
+
+<a href="https://github.com/zubairanjumm?tab=repositories">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairanjumm&layout=compact&hide_border=true&theme=transparent" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/zubairanjumm">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zubairanjumm&hide_border=true&theme=transparent" />
+</a>
+
+</div>
 
 ---
 
-## Current Goal
+# 📚 Currently Learning
 
-Build a strong foundation in **AI Engineering and backend systems**, then use those skills to create useful AI products.
+### AI Engineering
+
+`LLM Applications` · `RAG` · `LangGraph` · `AI Agents` · `Multi-Agent Systems`
+
+### Backend Engineering
+
+`FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Authentication` · `API Architecture`
+
+### Machine Learning
+
+`Data Preprocessing` · `Feature Engineering` · `Deep Learning` · `Model Development`
+
+---
+
+# 🎯 My Philosophy
+
+> **Learn the fundamentals → Build the system → Understand the architecture → Improve it.**
+
+I use projects as a way to move from **knowing a technology** to actually **understanding how systems are built with it**.
+
+---
+
+# 🔭 What's Next
+
+I'm working toward becoming a strong **AI Engineer** capable of designing and building complete AI-powered systems.
+
+The long-term goal isn't simply to build demos.
+
+It's to build **useful products that solve real problems.**
 
 ---
 
 <div align="center">
 
-### Let's build useful things.
+## Thanks for visiting.
+
+<a href="https://github.com/zubairanjumm">
+<img src="https://img.shields.io/badge/Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+**Python · AI · Backend · Systems**
+
+</div>
+
 
 </div>
 
