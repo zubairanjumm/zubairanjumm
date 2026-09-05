@@ -180,8 +180,4 @@ Build a strong foundation in **AI Engineering and backend systems**, then use th
 
 ---
 
-<div align="center">
-
-### Let's build useful things.
-
 </div>
