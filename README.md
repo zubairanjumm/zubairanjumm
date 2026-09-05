@@ -130,16 +130,6 @@ I prefer building projects that solve actual problems and use them to understand
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zubairanjumm&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairanjumm&layout=compact&hide_border=true" />
-
-</div>
-
 ---
 
 ## Current Goal
