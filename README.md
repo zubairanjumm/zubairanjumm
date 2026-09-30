@@ -1,25 +1,42 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/271936518?v=4" width="140" style="border-radius:50%;" />
+<img src="https://avatars.githubusercontent.com/u/271936518?v=4" width="150" alt="Zubair" />
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Python+Developer;Building+AI+Agents+%7C+RAG+Systems;FastAPI+%7C+LLMs+%7C+Backend+Engineering;Learning+to+Build+Production+AI+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2800&pause=900&color=F85D7F&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Python+Developer;Building+AI+Agents+%7C+RAG+Systems;FastAPI+%7C+LLMs+%7C+Backend+Engineering;Learning+to+Build+Production+AI+Systems" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/zubairanjumm">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://github.com/zubairanjumm?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://github.com/zubairanjumm?tab=followers">
+<img src="https://img.shields.io/github/followers/zubairanjumm?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=zubairanjumm&style=for-the-badge&color=F85D7F&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
+
+### `BUILD → TEST → BREAK → UNDERSTAND → FIX → SHIP`
+
+</div>
+
+---
+
+# About Me
 
 I'm a **Python developer focused on AI Engineering and backend systems**.
 
@@ -28,149 +45,73 @@ I build systems around **LLMs, AI agents, RAG, APIs, databases, and machine lear
 Currently working toward becoming a stronger **AI Engineer capable of designing and shipping production-grade AI applications**.
 
 ```text
-Python
-   │
-   ├── Machine Learning
-   │
-   ├── LLM Applications
-   │      ├── RAG
-   │      ├── AI Agents
-   │      └── Multi-Agent Systems
-   │
-   └── Backend Engineering
-          ├── FastAPI
-          ├── SQLAlchemy
-          ├── PostgreSQL
-          └── API Architecture
+                              AI ENGINEERING
+                                    │
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+             ML                    LLMs                BACKEND
+              │                     │                     │
+        ┌─────┴─────┐         ┌─────┼─────┐        ┌─────┼─────┐
+        │           │         │     │     │        │     │     │
+     Models      Data       RAG  Agents  Apps    APIs   DBs  Systems
+                                    │
+                              ┌─────┴─────┐
+                              │           │
+                         LangGraph   Multi-Agent
 ```
 
 ---
 
-# ⚔️ All Of My Skills
+# ⚔️ Tech Stack
 
 <div align="center">
 
-<table>
+## Core
 
-<tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
-Python
-</td>
+<br>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>
-FastAPI
-</td>
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,postgres,sqlite,docker,git,github,vscode" />
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>
-PyTorch
-</td>
+<br><br>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>
-PostgreSQL
-</td>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,jupyter,linux,bash" />
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=sqlite" width="48"/><br/>
-SQLite
-</td>
+<br><br>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
-Docker
-</td>
-</tr>
+`Python` · `FastAPI` · `PyTorch` · `PostgreSQL` · `SQLite` · `Docker` · `Git` · `GitHub`
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
-Git
-</td>
+<br>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
-GitHub
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>
-VS Code
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=numpy" width="48"/><br/>
-NumPy
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=pandas" width="48"/><br/>
-pandas
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=jupyter" width="48"/><br/>
-Jupyter
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=anaconda" width="48"/><br/>
-Conda
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>
-Linux
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bash" width="48"/><br/>
-Bash
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>
-GitHub Actions
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>
-Redis
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/>
-NGINX
-</td>
-</tr>
-
-</table>
+`NumPy` · `pandas` · `Jupyter` · `Linux` · `Bash` · `VS Code`
 
 </div>
 
-### AI / LLM
+---
+
+## AI / LLM
 
 <div align="center">
 
 <a href="https://www.langchain.com/">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
 </a>
+
 <a href="https://www.langchain.com/langgraph">
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
 </a>
+
 <a href="https://openai.com/">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </a>
+
 <a href="https://huggingface.co/">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
+
 <a href="https://ollama.com/">
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 </a>
+
 <a href="https://www.pinecone.io/">
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
 </a>
@@ -183,19 +124,24 @@ NGINX
 
 </p>
 
-### Backend & Data
+---
+
+## Backend & Data
 
 <div align="center">
 
 <a href="https://www.sqlalchemy.org/">
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
 </a>
+
 <a href="https://docs.pydantic.dev/">
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge" />
 </a>
+
 <a href="https://alembic.sqlalchemy.org/">
 <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge" />
 </a>
+
 <a href="https://github.com/pgvector/pgvector">
 <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
 </a>
@@ -208,29 +154,37 @@ NGINX
 
 </p>
 
-### AI / Research Tools
+---
+
+## AI / Research Tools
 
 <div align="center">
 
 <a href="https://streamlit.io/">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
+
 <a href="https://tavily.com/">
 <img src="https://img.shields.io/badge/Tavily-Research-000000?style=for-the-badge" />
 </a>
+
 <a href="https://www.crummy.com/software/BeautifulSoup/">
-<img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BeautifulSoup-Web_Scraping-4B8BBE?style=for-the-badge" />
 </a>
+
 <a href="https://requests.readthedocs.io/">
 <img src="https://img.shields.io/badge/Requests-2C3E50?style=for-the-badge" />
 </a>
+
 <a href="https://scikit-learn.org/">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </a>
 
 </div>
 
-### Python Tooling
+---
+
+## Python Tooling
 
 <p align="center">
 
@@ -240,63 +194,31 @@ NGINX
 
 ---
 
-# 🚀 Projects
-
-## 🔬 Multi-Agent Research System
-
-**Search → Read → Write → Critique**
-
-A multi-agent research system that coordinates specialized AI agents to automate web research and report generation.
-
-**Built with**
-
-`Python` `LangChain` `OpenAI` `Tavily` `BeautifulSoup` `Requests` `Streamlit`
-
-<a href="https://github.com/zubairanjumm/multi-agent-system">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
-## 📚 Research Hub
-
-A FastAPI backend for organizing research projects and their related resources.
-
-The system includes:
-
-`Authentication` · `Projects` · `Bookmarks` · `Notes` · `Resources` · `SQLAlchemy` · `Alembic`
-
-**Built with**
-
-`Python` `FastAPI` `SQLAlchemy` `SQLite` `PostgreSQL`
-
-<a href="https://github.com/zubairanjumm/research_hub">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
----
-
 # 🧠 What I'm Currently Exploring
 
+<div align="center">
+
 ```text
-                    AI ENGINEERING
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-       LLMs             RAG             Agents
-        │                │                │
-        └────────────────┼────────────────┘
-                         │
-                  AI APPLICATIONS
-                         │
-              ┌──────────┴──────────┐
-              │                     │
-           FastAPI              Databases
-              │                     │
-              └──────────┬──────────┘
-                         │
-                   REAL PRODUCTS
+                         AI ENGINEERING
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+            LLMs             RAG             AGENTS
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                       AI APPLICATIONS
+                              │
+                  ┌───────────┴───────────┐
+                  │                       │
+               FastAPI                Databases
+                  │                       │
+                  └───────────┬───────────┘
+                              │
+                         REAL PRODUCTS
 ```
+
+</div>
 
 ### Current Focus
 
@@ -310,11 +232,173 @@ The system includes:
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/zubairanjumm">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zubairanjumm&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+</a>
+
+<a href="https://github.com/zubairanjumm">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zubairanjumm&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=zubairanjumm&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
 # 🐍 Contribution Graph
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+# 🧩 Engineering Mindset
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### BUILD
+
+Understand the problem.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### TEST
+
+Prove it works.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### BREAK
+
+Find what fails.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### UNDERSTAND
+
+Find the real cause.
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+### FIX
+
+Solve the actual problem.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### SHIP
+
+Put it into the world.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### REPEAT
+
+Keep improving.
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+### SCALE
+
+Make it useful.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **Less abstraction. More understanding.**
+
+> **Less tutorials. More building.**
+
+</div>
+
+---
+
+# 📈 The Direction
+
+<div align="center">
+
+```text
+                 PYTHON
+                    │
+                    ▼
+              AI ENGINEERING
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+        LLMs                 ML
+          │                   │
+     ┌────┴────┐              │
+     ▼         ▼              ▼
+    RAG      AGENTS        MODELS
+     │         │              │
+     └────┬────┴──────────────┘
+          ▼
+     AI SYSTEMS
+          │
+          ▼
+    BACKEND SYSTEMS
+          │
+          ▼
+      REAL USERS
+          │
+          ▼
+     REAL PRODUCTS
+```
 
 </div>
 
@@ -328,25 +412,20 @@ The system includes:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://github.com/zubairanjumm?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=zubairanjumm&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=zubairanjumm&style=for-the-badge&color=F85D7F&label=PROFILE+VIEWS" />
 
-</div>
+<br><br>
 
-<br>
+<strong>Python · AI Engineering · Backend · Systems</strong>
 
-<div align="center">
+<br><br>
 
-**Python · AI Engineering · Backend · Systems**
-
-</div>
-
-
-
-</div>
-
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:181717,50:F85D7F,100:181717" width="100%" />
 
 </div>
